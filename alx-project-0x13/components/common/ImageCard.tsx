@@ -1,4 +1,4 @@
-import { GeneratedImagProps } from "@/interfaces";
+import { GeneratedImagProps } from "../../interfaces";
 
 
 const ImageCard: React.FC<GeneratedImagProps> = ({ imageUrl, prompt, width }) => {
